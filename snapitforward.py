@@ -1,6 +1,3 @@
-# queue
-# add friends
-
 import glob
 import json
 import time
@@ -22,7 +19,7 @@ credentials = json.load(open('credentials.json'))
 
 try:
 	while True:
-		time.sleep(5)
+		time.sleep(30)
 
 		if not s or not s.logged_in:
 			log ('Logging in to {0}'.format(credentials['username']))
