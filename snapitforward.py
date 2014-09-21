@@ -91,7 +91,7 @@ try:
 				log ('Uploading item from {0}'.format(queue_file))
 				# possible that the media did not upload
 				media_id = s.upload(Snapchat.MEDIA_IMAGE, queue_file)
-				log ('Sending current_media')
+				log ('Sending {0}'.format(media_id))
 				# possible that the media did not send
 				s.send(media_id, sender)
 				log ('Deleting ' + queue_file)
