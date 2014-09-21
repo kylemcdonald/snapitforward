@@ -9,7 +9,7 @@ from datetime import datetime
 from snapchat import Snapchat
 
 def log(msg):
-	print ("{}\t{}".format(datetime.now(), msg))
+	print ("{0}\t{1}".format(datetime.now(), msg))
 
 def date_serializer(obj):
     if isinstance(obj, datetime):
@@ -25,7 +25,7 @@ try:
 		time.sleep(5)
 
 		if not s or not s.logged_in:
-			log ('Logging in to {}'.format(credentials['username']))
+			log ('Logging in to {0}'.format(credentials['username']))
 			s = Snapchat(credentials['username'], credentials['password'])	
 			log ('Logged in')
 
@@ -51,7 +51,7 @@ try:
 				# log ('Snap is not an image, ignoring')
 				continue
 
-			log ('Processing snap {} from {}'.format(snap['id'], snap['sender']))
+			log ('Processing snap {0} from {1}'.format(snap['id'], snap['sender']))
 
 			media_path = 'cache/' + snap['id']
 
@@ -64,12 +64,12 @@ try:
 				with open('history.json'.format(datetime.now()), 'w') as f:
 					f.write(json.dumps(snaps, default=date_serializer, indent=2))
 			except TypeError as e:
-				log ('Error saving history: {}'.format(e))
+				log ('Error saving history: {0}'.format(e))
 
 			log ('Downloading ' + snap['id'])
 			media = s.get_media(snap['id'])
 
-			# log ('Marking {} as seen'.format(snap['id']))
+			# log ('Marking {0} as seen'.format(snap['id']))
 			# s.mark_seen(snap['id'])
 
 			if media == None:
@@ -83,12 +83,12 @@ try:
 					log ('Writing to cache from ' + snap['id'])
 					f.write(media)
 			except TypeError as e:
-				log ('Error saving file: {}'.format(e))
+				log ('Error saving file: {0}'.format(e))
 
 			queue = glob.glob('queue/*')
 			if len(queue):
 				queue_file = queue[0]
-				log ('Uploading item from {}'.format(queue_file))
+				log ('Uploading item from {0}'.format(queue_file))
 				# possible that the media did not upload
 				media_id = s.upload(Snapchat.MEDIA_IMAGE, queue_file)
 				log ('Sending current_media')
@@ -102,7 +102,7 @@ try:
 					log ('Writing to queue from ' + snap['id'])
 					f.write(media)
 			except TypeError as e:
-				log ('Error saving file: {}'.format(e))
+				log ('Error saving file: {0}'.format(e))
 
 except KeyboardInterrupt:
 	s.logout()

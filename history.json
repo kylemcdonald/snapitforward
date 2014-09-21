@@ -7,12 +7,288 @@
     "screenshot_count": null, 
     "media_type": null, 
     "recipient": null, 
+    "id": "36659411256157929r", 
+    "sent": "2014-09-20T19:35:57", 
+    "opened": "2014-09-20T19:35:57"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411255559498MVRNR", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "mvrnr", 
+    "id": "493543411255561412s", 
+    "sent": "2014-09-20T19:26:01", 
+    "opened": "2014-09-20T19:30:43"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "mvrnr", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "190581411255554794r", 
+    "sent": "2014-09-20T19:25:54", 
+    "opened": "2014-09-20T19:25:54"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411255482693MVRNR", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "mvrnr", 
+    "id": "22383411255485017s", 
+    "sent": "2014-09-20T19:24:45", 
+    "opened": "2014-09-20T19:25:40"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "mvrnr", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "3294411255477327r", 
+    "sent": "2014-09-20T19:24:37", 
+    "opened": "2014-09-20T19:24:37"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411255043237MONTANAMICDEE", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "montanamicdee", 
+    "id": "475789411255044613s", 
+    "sent": "2014-09-20T19:17:24", 
+    "opened": "2014-09-20T19:31:24"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "montanamicdee", 
+    "time": 5, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "478117411255039219r", 
+    "sent": "2014-09-20T19:17:19", 
+    "opened": "2014-09-20T19:17:19"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "montanamicdee", 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": 3, 
+    "recipient": null, 
+    "id": "215787411254975180r", 
+    "sent": "2014-09-20T19:16:15", 
+    "opened": "2014-09-20T19:16:15"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411254507237KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "361354411254509878s", 
+    "sent": "2014-09-20T19:08:29", 
+    "opened": "2014-09-20T19:08:35"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "624659411254501824r", 
+    "sent": "2014-09-20T19:08:21", 
+    "opened": "2014-09-20T19:08:21"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411254111069KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "649856411254112635s", 
+    "sent": "2014-09-20T19:01:52", 
+    "opened": "2014-09-20T19:01:57"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "980398411254106541r", 
+    "sent": "2014-09-20T19:01:46", 
+    "opened": "2014-09-20T19:01:46"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411253997693KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "26418411253998923s", 
+    "sent": "2014-09-20T18:59:58", 
+    "opened": "2014-09-20T19:00:03"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "284160411253994363r", 
+    "sent": "2014-09-20T18:59:54", 
+    "opened": "2014-09-20T18:59:54"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "rachelbinx", 
+    "time": 4, 
+    "screenshot_count": null, 
+    "media_type": 1, 
+    "recipient": null, 
+    "id": "644118411253929220r", 
+    "sent": "2014-09-20T18:58:49", 
+    "opened": "2014-09-20T18:58:49"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "rachelbinx", 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": 3, 
+    "recipient": null, 
+    "id": "477701411253919598r", 
+    "sent": "2014-09-20T18:58:39", 
+    "opened": "2014-09-20T18:58:39"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411253608696KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "473546411253610364s", 
+    "sent": "2014-09-20T18:53:30", 
+    "opened": "2014-09-20T18:53:37"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "240678411253604911r", 
+    "sent": "2014-09-20T18:53:24", 
+    "opened": "2014-09-20T18:53:24"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411252923868KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "257846411252932807s", 
+    "sent": "2014-09-20T18:42:12", 
+    "opened": "2014-09-20T18:42:14"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "794440411252917732r", 
+    "sent": "2014-09-20T18:41:57", 
+    "opened": "2014-09-20T18:41:57"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411252892688KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "486705411252893948s", 
+    "sent": "2014-09-20T18:41:33", 
+    "opened": "2014-09-20T18:41:36"
+  }, 
+  {
+    "status": 1, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": 3, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
+    "id": "186971411252891227r", 
+    "sent": "2014-09-20T18:41:31", 
+    "opened": "2014-09-20T18:41:31"
+  }, 
+  {
+    "status": 2, 
+    "media_id": "SNAPITFORWARD~1411252273216KCIMC", 
+    "sender": null, 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": "kcimc", 
+    "id": "355326411252274473s", 
+    "sent": "2014-09-20T18:31:14", 
+    "opened": "2014-09-20T18:32:07"
+  }, 
+  {
+    "status": 2, 
+    "media_id": null, 
+    "sender": "kcimc", 
+    "time": null, 
+    "screenshot_count": null, 
+    "media_type": null, 
+    "recipient": null, 
     "id": "890587411252272210r", 
     "sent": "2014-09-20T18:31:12", 
     "opened": "2014-09-20T18:31:12"
   }, 
   {
-    "status": 1, 
+    "status": 2, 
     "media_id": "SNAPITFORWARD~1411252269692KCIMC", 
     "sender": null, 
     "time": null, 
@@ -21,7 +297,7 @@
     "recipient": "kcimc", 
     "id": "467499411252271082s", 
     "sent": "2014-09-20T18:31:11", 
-    "opened": "2014-09-20T18:31:11"
+    "opened": "2014-09-20T18:31:57"
   }, 
   {
     "status": 2, 
@@ -36,7 +312,7 @@
     "opened": "2014-09-20T18:31:07"
   }, 
   {
-    "status": 1, 
+    "status": 2, 
     "media_id": "SNAPITFORWARD~1411252264367KCIMC", 
     "sender": null, 
     "time": null, 
@@ -45,7 +321,7 @@
     "recipient": "kcimc", 
     "id": "637955411252267230s", 
     "sent": "2014-09-20T18:31:07", 
-    "opened": "2014-09-20T18:31:07"
+    "opened": "2014-09-20T18:31:47"
   }, 
   {
     "status": 2, 
@@ -60,7 +336,7 @@
     "opened": "2014-09-20T18:31:02"
   }, 
   {
-    "status": 1, 
+    "status": 2, 
     "media_id": "SNAPITFORWARD~1411252258634KCIMC", 
     "sender": null, 
     "time": null, 
@@ -69,7 +345,7 @@
     "recipient": "kcimc", 
     "id": "100391411252259925s", 
     "sent": "2014-09-20T18:30:59", 
-    "opened": "2014-09-20T18:30:59"
+    "opened": "2014-09-20T18:31:37"
   }, 
   {
     "status": 2, 
@@ -217,18 +493,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": null, 
-    "sender": "snapfaceface", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "951510411249426384r", 
-    "sent": "2014-09-20T17:43:46", 
-    "opened": "2014-09-20T17:43:46"
-  }, 
-  {
-    "status": 2, 
     "media_id": "SNAPITFORWARD~1411248649794MVRNR", 
     "sender": null, 
     "time": null, 
@@ -301,18 +565,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": null, 
-    "sender": "snapfaceface", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": 3, 
-    "recipient": null, 
-    "id": "748069411242635556r", 
-    "sent": "2014-09-20T15:50:35", 
-    "opened": "2014-09-20T15:50:35"
-  }, 
-  {
-    "status": 2, 
     "media_id": "SNAPITFORWARD~1411241863019EXPLODING-BOY", 
     "sender": null, 
     "time": null, 
@@ -325,18 +577,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": null, 
-    "sender": "exploding-boy", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "203913411241850306r", 
-    "sent": "2014-09-20T15:37:30", 
-    "opened": "2014-09-20T15:37:30"
-  }, 
-  {
-    "status": 2, 
     "media_id": "SNAPITFORWARD~1411241750832EXPLODING-BOY", 
     "sender": null, 
     "time": null, 
@@ -346,18 +586,6 @@
     "id": "426335411241752204s", 
     "sent": "2014-09-20T15:35:52", 
     "opened": "2014-09-20T15:36:19"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "exploding-boy", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "886631411241747660r", 
-    "sent": "2014-09-20T15:35:47", 
-    "opened": "2014-09-20T15:35:47"
   }, 
   {
     "status": 3, 
@@ -421,18 +649,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": null, 
-    "sender": "theconundrumer", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "98310411241572223r", 
-    "sent": "2014-09-20T15:32:52", 
-    "opened": "2014-09-20T15:32:52"
-  }, 
-  {
-    "status": 2, 
     "media_id": "SNAPITFORWARD~1411241534008MVRNR", 
     "sender": null, 
     "time": null, 
@@ -442,18 +658,6 @@
     "id": "614034411241535384s", 
     "sent": "2014-09-20T15:32:15", 
     "opened": "2014-09-20T15:32:39"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "mvrnr", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "381369411241524474r", 
-    "sent": "2014-09-20T15:32:04", 
-    "opened": "2014-09-20T15:32:04"
   }, 
   {
     "status": 2, 
@@ -481,30 +685,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241510417THECONUNDRUMER", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "theconundrumer", 
-    "id": "5496411241512768s", 
-    "sent": "2014-09-20T15:31:52", 
-    "opened": "2014-09-20T15:32:07"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "theconundrumer", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "799498411241509456r", 
-    "sent": "2014-09-20T15:31:49", 
-    "opened": "2014-09-20T15:31:49"
-  }, 
-  {
-    "status": 2, 
     "media_id": "SNAPITFORWARD~1411241501953JMARSICO", 
     "sender": null, 
     "time": null, 
@@ -529,18 +709,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241379988KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "183792411241381525s", 
-    "sent": "2014-09-20T15:29:41", 
-    "opened": "2014-09-20T15:29:44"
-  }, 
-  {
-    "status": 2, 
     "media_id": null, 
     "sender": "kcimc", 
     "time": null, 
@@ -550,18 +718,6 @@
     "id": "576881411241378173r", 
     "sent": "2014-09-20T15:29:38", 
     "opened": "2014-09-20T15:29:38"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241362619KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "844660411241364283s", 
-    "sent": "2014-09-20T15:29:24", 
-    "opened": "2014-09-20T15:29:27"
   }, 
   {
     "status": 2, 
@@ -577,42 +733,6 @@
   }, 
   {
     "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241338247KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "811537411241345571s", 
-    "sent": "2014-09-20T15:29:05", 
-    "opened": "2014-09-20T15:29:09"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "kcimc", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "794720411241337504r", 
-    "sent": "2014-09-20T15:28:57", 
-    "opened": "2014-09-20T15:28:57"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241286115KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "399976411241287451s", 
-    "sent": "2014-09-20T15:28:07", 
-    "opened": "2014-09-20T15:28:13"
-  }, 
-  {
-    "status": 2, 
     "media_id": null, 
     "sender": "kcimc", 
     "time": null, 
@@ -622,54 +742,6 @@
     "id": "905691411241285647r", 
     "sent": "2014-09-20T15:28:05", 
     "opened": "2014-09-20T15:28:05"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241204328KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "949275411241205880s", 
-    "sent": "2014-09-20T15:26:45", 
-    "opened": "2014-09-20T15:26:57"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "kcimc", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "410059411241110752r", 
-    "sent": "2014-09-20T15:25:10", 
-    "opened": "2014-09-20T15:25:10"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411241052040KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "969056411241053830s", 
-    "sent": "2014-09-20T15:24:13", 
-    "opened": "2014-09-20T15:24:16"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "kcimc", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "950114411241047695r", 
-    "sent": "2014-09-20T15:24:07", 
-    "opened": "2014-09-20T15:24:07"
   }, 
   {
     "status": 2, 
@@ -694,53 +766,5 @@
     "id": "564523411240899884r", 
     "sent": "2014-09-20T15:21:39", 
     "opened": "2014-09-20T15:21:39"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411240516264MVRNR", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "mvrnr", 
-    "id": "952370411240517864s", 
-    "sent": "2014-09-20T15:15:17", 
-    "opened": "2014-09-20T15:15:31"
-  }, 
-  {
-    "status": 2, 
-    "media_id": null, 
-    "sender": "snapitforward", 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": null, 
-    "id": "162737411236963571r", 
-    "sent": "2014-09-20T14:16:03", 
-    "opened": "2014-09-20T14:16:03"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411236961359SNAPITFORWARD", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "snapitforward", 
-    "id": "162737411236963571s", 
-    "sent": "2014-09-20T14:16:03", 
-    "opened": "2014-09-20T14:42:49"
-  }, 
-  {
-    "status": 2, 
-    "media_id": "SNAPITFORWARD~1411236691521KCIMC", 
-    "sender": null, 
-    "time": null, 
-    "screenshot_count": null, 
-    "media_type": null, 
-    "recipient": "kcimc", 
-    "id": "756440411236693590s", 
-    "sent": "2014-09-20T14:11:33", 
-    "opened": "2014-09-20T14:40:43"
   }
 ]
