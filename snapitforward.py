@@ -2,6 +2,7 @@ import glob
 import json
 import time
 import os.path
+import random
 from datetime import datetime
 from snapchat import Snapchat
 
@@ -19,7 +20,8 @@ credentials = json.load(open('credentials.json'))
 
 try:
 	while True:
-		time.sleep(30)
+		delay = 5 + random.random() * 10
+		time.sleep(delay)
 
 		if not s or not s.logged_in:
 			log ('Logging in to {0}'.format(credentials['username']))
